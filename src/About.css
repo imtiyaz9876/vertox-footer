@@ -1,0 +1,12 @@
+.about{
+    margin-top: 100px;
+}
+
+.heading{
+    text-align: center;
+    align-items: center;
+}
+.heading h1{
+    /* font-weight: bold; */
+     font-size: 70px; 
+}

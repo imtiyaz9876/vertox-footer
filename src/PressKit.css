@@ -1,0 +1,35 @@
+
+
+.headeing_text{
+    text-align: center;
+    margin-top: 80px;
+}
+.headeing_text h1{
+    font-size: 70px;
+}
+.headeing_text p{
+    font-size: 27px;
+    margin-top: 30px;
+}
+.presskit_body{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 160px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.presskit_body .text{
+     margin-right: 200px; 
+    align-items: center;
+    width: 1000px;
+    background-color: rgb(238, 224, 224);
+    text-align: start;
+}
+.presskit_body .text p,span{
+    font-size: x-large;
+}
+ .presskit_body .text h1,p ,span{
+     margin-top: 100px; 
+      margin-left: 20px; 
+    
+} 

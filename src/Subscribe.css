@@ -1,0 +1,34 @@
+
+
+.subscribe-form{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.subscribe-form input{
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: x-large;
+}
+.subscribe-form input:hover{
+    border: 1px solid black;
+}
+/* .subscribe-form hr{
+    width: 550px;
+    color: black;
+    text-align: center;
+    margin-left: 580px;
+    font-weight: bolder;
+} */
+
+.subscribe-form button{
+    width: 600px;
+    margin: 10px;
+    background-color: black;
+    color: whitesmoke;
+    height: 48px;
+}
